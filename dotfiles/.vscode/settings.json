@@ -17,6 +17,8 @@
 
 	"git.autofetch": true,
 
+	"javascript.updateImportsOnFileMove.enabled": "always",
+
 	"material-icon-theme.folders.theme": "specific",
 
 	"typescript.updateImportsOnFileMove.enabled": "always",
