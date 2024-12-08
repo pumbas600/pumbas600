@@ -1,0 +1,11 @@
+[user]
+	name = pumbas600
+	# email = 
+[core]
+	editor = code --wait
+	ignorecase = false
+[init]
+	defaultBranch = main
+[alias]
+    # From: https://stackoverflow.com/a/9074343
+	graph = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)' --all
