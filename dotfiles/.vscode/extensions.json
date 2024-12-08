@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"adpyke.codesnap",
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode",
+		"github.vscode-github-actions",
+		"mikestead.dotenv",
+		"ms-vsliveshare.vsliveshare",
+		"teabyii.ayu",
+		"usernamehw.errorlens",
+		"PKief.material-icon-theme"
+	]
+}

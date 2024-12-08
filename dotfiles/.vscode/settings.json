@@ -1,0 +1,26 @@
+{
+	"codesnap.containerPadding": "0em",
+	"codesnap.showWindowControls": false,
+	"codesnap.shutterAction": "copy",
+	"codesnap.transparentBackground": true,
+
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 13,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"editor.inlineSuggest.enabled": true,
+	"editor.lineHeight": 1.75,
+	"editor.renderWhitespace": "selection",
+	"editor.rulers": [100],
+
+	"git.autofetch": true,
+
+	"material-icon-theme.folders.theme": "specific",
+
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
+	"workbench.colorTheme": "Ayu Dark",
+	"workbench.iconTheme": "material-icon-theme"
+}
